@@ -2,3 +2,5 @@
 echo "echo hello world i love you will you mary me"
 python('hello world')
 #python script
+this is good
+will be great
